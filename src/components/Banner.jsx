@@ -63,7 +63,7 @@ function Banner() {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <span className="tagline">Welcome to my Portfolio</span>
+                  <span className="tagline">Welcome to OWASP TCET</span>
                   <h1>
                     {`Hi! I'm Judy`}{" "}
                     <span
